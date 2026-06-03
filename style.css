@@ -1,0 +1,34 @@
+
+
+h1 {
+  color: #b9ebf5;
+}
+
+img {
+  background-size: auto;
+  padding: 10px;
+  margin: 10px;
+  border: 5px solid gray;
+}
+
+a {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+.link-header {
+  margin: 5px;
+  padding: 5px;
+  text-align: left;
+  border: 3px solid skyblue;
+  background-color: #6767;
+}
+
+.link-header a {
+  font-size: 2rem;
+  margin: 10px;
+}
+
+.link-header a:hover {
+  color: rgb(156, 72, 235);
+}
